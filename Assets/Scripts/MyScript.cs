@@ -7,6 +7,7 @@ public class MyScript : MonoBehaviour {
 	void Start () {
 		print ("You found the script.");
 		print ("Something changed.");
+		print ("Added something else.");
 	}
 	
 	// Update is called once per frame
